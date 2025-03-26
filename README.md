@@ -1,4 +1,4 @@
-# EasyVRBuildChangerForUnity  
+# Easy VR Build Changer For Unity  
 
 An easy way to switch the Android OpenXR target between Meta Quest and Pico platforms in Unity. (Tested in Unity 2023)  
 
